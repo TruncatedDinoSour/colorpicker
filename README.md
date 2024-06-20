@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/colorpicker>
 # colorpicker
 
 A small tool for X11 that writes the color value on your screen at the cursor
